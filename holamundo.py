@@ -1,0 +1,1 @@
+print("hola mundo mi nombre es dave y vengo para ser el mejor data science")
